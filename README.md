@@ -37,3 +37,5 @@ This project analyzes an online retail dataset using PySpark in Google Colab. Th
 2. Install dependencies:
    ```bash
    pip install pyspark
+3.Upload dataset
+4.Run all cells
